@@ -1,0 +1,10 @@
+aiohttp
+pydantic
+motor
+requests
+redis
+fastapi
+uvicorn
+python-multipart
+prometheus-fastapi-instrumentator
+aio-pika
